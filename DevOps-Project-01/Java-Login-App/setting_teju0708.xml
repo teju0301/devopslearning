@@ -5,6 +5,7 @@
     <server>
       <username>prdevop26@gmail.com</username>
       <password>Admin123!</password>
+      <button>button</button>
       <id>central</id>
     </server>
     <server>
